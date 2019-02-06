@@ -10,12 +10,4 @@
       "Mnvx\\Lowrapper\\": "src/"
     }
   },
-  "require": {
-    "php": ">=5.5",
-    "symfony/process": "^3.1",
-    "psr/log": "^1.0"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^4.0"
-  }
 }
